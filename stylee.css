@@ -269,6 +269,7 @@ text-shadow: 0 0 10px #FFFFFF, -1px 0px 20px rgba(255,255,255,0.7);
     color: #ffffff;
     background-size: cover ;
     background-position: center;
+    padding-bottom: 180px;
 }
 .grid-container{
     display: grid;
